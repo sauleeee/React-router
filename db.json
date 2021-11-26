@@ -1,0 +1,39 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "img": "https://i1.wp.com/i.pinimg.com/originals/67/eb/96/67eb960e4e72c666ee41f8e0ee9534e3.jpg",
+      "name": "Ainsley",
+      "age": "19",
+      "country": "Japan"
+    },
+    {
+      "id": 2,
+      "img": "https://i1.wp.com/data.whicdn.com/images/312447313/original.jpg",
+      "name": "Mark",
+      "age": "20",
+      "country": "Korea"
+    },
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4HaYlGtnwSNdFe3Zc-_zdxlTOkZhvrGj4JIbEBIjh99jhcFWhtktDFm8N_9S8rOQ6gvk&usqp=CAU",
+      "name": "Sonya",
+      "age": "25",
+      "country": "USA"
+    },
+    {
+      "id": 4,
+      "img": "https://www.dictionary.com/e/wp-content/uploads/2019/08/20200714_catTax_800x800-300x300.jpg",
+      "name": "Milana",
+      "age": "23",
+      "country": ""
+    },
+    {
+      "id": 5,
+      "img": "https://www.alleycat.org/wp-content/uploads/2019/12/900x900_CatCare_LitterboxIssues-300x300.jpg",
+      "name": "Avery",
+      "age": "26",
+      "country": "Australia"
+    }
+  ]
+}
